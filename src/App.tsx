@@ -6,7 +6,7 @@ const App: React.FC = () => {
   // delay - время ответа от сервера
   const delay = 5000;
   // имитируем код ответа
-  const mockServerStatus = 200;
+  const mockServerStatus = 502;
   // каждые N секунд новое сообщение
   const N = 1000;
   // текущий статус виджета
